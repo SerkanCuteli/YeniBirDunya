@@ -7,5 +7,6 @@ public class Test1 {
         System.out.println("Merhaba World");
         System.out.println("ADDED LOCALLY!!!");
         System.out.println("ADDED LOCALLY, pushed with GIT MENU!!!");
+        // BURASI REMOTE REPODA GITHUB DA EKLENDI!!!
     }
 }
